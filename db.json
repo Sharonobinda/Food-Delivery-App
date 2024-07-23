@@ -1,0 +1,46 @@
+{
+    "menu": [
+        {
+            "id": "1",
+            "name": "Pizza Margherita",
+            "description": "Classic pizza with tomatoes, mozzarella cheese, and fresh basil.",
+            "price": 8.99,
+            "image": "images/pizza_margherita.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Spaghetti Carbonara",
+            "description": "Pasta with creamy sauce, pancetta, and parmesan cheese.",
+            "price": 12.99,
+            "image": "images/spaghetti_carbonara.jpg"
+        },
+        {
+            "id": "3",
+            "name": "Caesar Salad",
+            "description": "Romaine lettuce, croutons, parmesan cheese, and Caesar dressing.",
+            "price": 7.49,
+            "image": "images/caesar_salad.jpg"
+        },
+        {
+            "id": "4",
+            "name": "Chicken Alfredo",
+            "description": "Creamy Alfredo sauce with grilled chicken over fettuccine pasta.",
+            "price": 13.49,
+            "image": "images/chicken_alfredo.jpg"
+        },
+        {
+            "id": "5",
+            "name": "BBQ Burger",
+            "description": "Juicy burger with BBQ sauce, cheddar cheese, and onion rings.",
+            "price": 10.99,
+            "image": "images/bbq_burger.jpg"
+        },
+        {
+            "id": "6",
+            "name": "Tiramisu",
+            "description": "Classic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cheese.",
+            "price": 6.99,
+            "image": "images/tiramisu.jpg"
+        }
+    ]
+}
