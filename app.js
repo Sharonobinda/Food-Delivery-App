@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
 let orders = [];
 
 function loadMenuItems() {
-    fetch('/db.json')
+    fetch('db.json')
         .then(response => {
             if (!response.ok) {
                 throw new Error(`HTTP error! Status: ${response.status}`);
